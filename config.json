@@ -85,10 +85,10 @@
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
     },
-        "155api": {
-      "api": "https://155api.com/api.php/provide/vod",
-      "name": "AV-155资源",
-      "detail": "https://155api.com",
+    "91md": {
+      "api": "https://91md.me/api.php/provide/vod",
+      "name": "AV-91麻豆",
+      "detail": "https://91md.me",
     }
   }
 }
